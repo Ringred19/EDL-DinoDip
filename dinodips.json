@@ -20,6 +20,10 @@
 						"chancetodrop": 2
 					},
 					{
+						"dino": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Spring.ShoulderDragon_Character_BP_Spring",
+						"chancetodrop": 2
+					},
+					{
 						"dino": "/Game/PrimalEarth/Dinos/Procoptodon/Procoptodon_Character_BP.Procoptodon_Character_BP_C",
 						"chancetodrop": 0.8
 					},
