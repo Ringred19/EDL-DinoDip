@@ -20,6 +20,10 @@
 						"chancetodrop": 2
 					},
 					{
+						"dino": "/Game/PrimalEarth/Dinos/Procoptodon/Procoptodon_Character_BP.Procoptodon_Character_BP_C",
+						"chancetodrop": 0.8
+					},
+					{
 						"dino": "/Game/PrimalEarth/Dinos/Compy/Compy_Character_BP.Compy_Character_BP_C",
 						"chancetodrop": 1
 					},
@@ -147,10 +151,6 @@
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Stego/Stego_Character_BP.Stego_Character_BP_C",
-						"chancetodrop": 0.8
-					},
-					{
-						"dino": "/Game/PrimalEarth/Dinos/Procoptodon/Procoptodon_Character_BP.Procoptodon_Character_BP_C",
 						"chancetodrop": 0.8
 					},
 					{
