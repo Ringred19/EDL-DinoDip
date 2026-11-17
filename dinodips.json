@@ -342,7 +342,7 @@
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Spino/Spino_Character_BP.Spino_Character_BP_C",
-						"chancetodrop": 0.3
+						"chancetodrop": 1.0
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Carcharodontosaurus/Carcha_Character_BP.Carcha_Character_BP_C",
@@ -358,11 +358,11 @@
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Basilosaurus/Basilosaurus_Character_BP.Basilosaurus_Character_BP_C",
-						"chancetodrop": 0.4
+						"chancetodrop": 3.0
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Yutyrannus/Yutyrannus_Character_BP.Yutyrannus_Character_BP_C",
-						"chancetodrop": 0.3
+						"chancetodrop": 3.0
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Quetzalcoatlus/Quetz_Character_BP.Quetz_Character_BP_C",
@@ -382,7 +382,11 @@
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP_C",
-						"chancetodrop": 0.3
+						"chancetodrop": 3.0
+					}
+					{
+						"dino": "/Game/ASA/Dinos/Deinosuchus/Deinosuchusasa_Character_BP.Deinosuchusasa_Character_BP_C",
+						"chancetodrop": 3.0
 					}
 				],
 				"dipstogive": 5
